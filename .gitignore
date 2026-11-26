@@ -1,0 +1,23 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Environments and credentials
+.env
+.venv/
+venv/
+*.json.key
+credentials*.json
+.config/earthengine/
+# OS and editors
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+# Large optional inputs not redistributed
+data/gis/OSM_Geofabrik/
+# Unpublished manuscript files must never be committed
+*Manuscript*.odt
+*Manuscript*.docx
+*Cover_Letter*

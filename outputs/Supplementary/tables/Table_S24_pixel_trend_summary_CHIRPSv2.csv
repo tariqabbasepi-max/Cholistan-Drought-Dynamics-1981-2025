@@ -1,0 +1,10 @@
+metric,years,cells,mean_slope_per_decade,slope_p10,slope_p90,pct_area_positive,pct_area_negative,pct_area_sig_increase_q10,pct_area_sig_decrease_q10,pct_area_sig_increase_q05,pct_area_sig_decrease_q05
+Annual rainfall (mm),1981–2025,915,29.341,22.873,34.088,100.0,0.0,100.0,0.0,100.0,0.0
+JJAS rainfall (mm),1981–2025,915,25.089,18.955,29.661,100.0,0.0,100.0,0.0,100.0,0.0
+Wet pentads ≥5 mm (count),1981–2025,915,1.325,1.111,1.515,100.0,0.0,99.321,0.0,99.321,0.0
+Top-10 pentad share (%),1981–2025,915,2.182,1.31,3.469,100.0,0.0,78.002,0.0,60.412,0.0
+JJAS longest dry run <2 mm (pentads),1981–2025,915,-0.473,-0.674,-0.276,0.0,94.234,0.0,88.387,0.0,74.838
+"P20 dry pentads, all pentads (count)",1981–2025,915,3.432,1.818,5.0,100.0,0.0,96.295,0.0,93.512,0.0
+"P20 dry pentads, normal ≥1 mm (count)",1981–2025,915,0.691,0.0,1.765,66.208,7.998,9.615,0.0,1.176,0.0
+SPI-3 annual minimum (index),1982–2025,915,0.03,-0.002,0.063,89.538,10.462,0.0,0.0,0.0,0.0
+SPI-12 annual minimum (index),1982–2025,915,0.371,0.317,0.424,100.0,0.0,100.0,0.0,99.825,0.0

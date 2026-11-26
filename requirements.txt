@@ -1,0 +1,12 @@
+# Versions used for the published run (Python 3.13). Newer versions are expected to work.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pillow==12.3.0
+jupyter
+# Optional: only needed to rebuild the Earth Engine caches or to write GeoTIFF rasters
+# earthengine-api
+# geopandas
+# rasterio

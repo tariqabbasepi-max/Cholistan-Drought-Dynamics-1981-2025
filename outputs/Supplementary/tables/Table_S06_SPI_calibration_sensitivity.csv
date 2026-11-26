@@ -1,0 +1,9 @@
+scale,alternative,pearson_r,mean_abs_diff,drought_class_disagreement_pct,drought_months_primary,drought_months_alternative
+SPI-1,Calibration 1991–2020,0.9876,0.1026,2.963,44,42
+SPI-1,Zero mass at q/2,1.0,0.0,0.0,44,44
+SPI-3,Calibration 1991–2020,0.9874,0.1098,1.1152,54,52
+SPI-3,Zero mass at q/2,1.0,0.0,0.0,54,54
+SPI-6,Calibration 1991–2020,0.9885,0.1315,0.5607,62,65
+SPI-6,Zero mass at q/2,1.0,0.0,0.0,62,62
+SPI-12,Calibration 1991–2020,0.9999,0.1797,1.3233,60,67
+SPI-12,Zero mass at q/2,1.0,0.0,0.0,60,60

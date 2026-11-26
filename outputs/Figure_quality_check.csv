@@ -1,0 +1,13 @@
+figure,role,width_mm,height_mm,pixels,dpi,mode,dpi_600,rgb,lzw,width_ok,height_ok,status
+Fig02_rainfall_regime,Main,174.0,90.0,4110×2125,600,RGB,True,True,True,True,True,PASS
+Fig03_SPI_3_6_12,Main,174.0,132.0,4110×3118,600,RGB,True,True,True,True,True,PASS
+Fig04_shift_versus_trend,Main,174.0,128.0,4110×3023,600,RGB,True,True,True,True,True,PASS
+Fig05_wet_pentad_frequency_intensity,Main,174.0,80.0,4110×1889,600,RGB,True,True,True,True,True,PASS
+Fig06_pixel_trend_maps,Main,174.0,146.0,4110×3448,600,RGB,True,True,True,True,True,PASS
+Fig07_LISA_trend_clusters,Main,174.0,142.0,4110×3354,600,RGB,True,True,True,True,True,PASS
+FigS2_pixel_trend_maps_supplementary,Supplementary,174.0,146.0,4110×3448,600,RGB,True,True,True,True,True,PASS
+FigS3_CHIRPS_v2_v3_trend_maps,Supplementary,174.0,146.0,4110×3448,600,RGB,True,True,True,True,True,PASS
+Fig08_precipitation_product_agreement,Main,174.0,92.0,4110×2173,600,RGB,True,True,True,True,True,PASS
+FigS1_dry_pentad_definition_sensitivity,Supplementary,174.0,115.0,4110×2716,600,RGB,True,True,True,True,True,PASS
+FigS4_exploratory_rainfall_zones,Supplementary,174.0,78.0,4110×1842,600,RGB,True,True,True,True,True,PASS
+Fig01_study_area,Main,174.0,125.0,4110×2952,600,RGB,True,True,True,True,True,PASS

@@ -1,0 +1,13 @@
+series,test,statistic,change_year,p_asymptotic,p_permutation,q_bh_permutation
+Annual rainfall,Pettitt (rank-based),374.0,2009,0.00024,0.0001,0.0002
+Annual rainfall,Buishand range Q,14.05961,2009,,0.0001,0.0002
+Annual rainfall,Buishand range R,14.2281,2009,,0.0001,0.0002
+Annual rainfall,SNHT (Alexandersson),19.48826,2014,,0.0002,0.00024
+JJAS rainfall,Pettitt (rank-based),356.0,2009,0.00057,0.0001,0.0002
+JJAS rainfall,Buishand range Q,13.25121,2009,,0.0001,0.0002
+JJAS rainfall,Buishand range R,13.42583,2009,,0.0002,0.00024
+JJAS rainfall,SNHT (Alexandersson),19.24945,2021,,0.0019,0.00207
+JAS rainfall,Pettitt (rank-based),350.0,2009,0.00075,0.0002,0.00024
+JAS rainfall,Buishand range Q,12.75601,2009,,0.0001,0.0002
+JAS rainfall,Buishand range R,13.07068,2009,,0.0002,0.00024
+JAS rainfall,SNHT (Alexandersson),17.37481,2021,,0.0023,0.0023

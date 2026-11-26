@@ -1,0 +1,6 @@
+model,n_params,rss,break_year,AICc,BIC,delta_BIC,delta_AICc,BIC_weight
+Broken (hinge) trend,5,119731.435,2004.0,494.128,501.623,0.0,0.0,0.645
+Step change (mean shift),4,136247.843,2014.0,497.405,503.632,2.008,3.277,0.236
+Step change + common trend,5,131594.495,2014.0,498.38,505.875,4.251,4.251,0.077
+Linear trend,3,160130.754,,502.259,507.093,5.47,8.13,0.042
+Constant mean,2,244572.785,,519.017,522.345,20.722,24.889,0.0

@@ -1,0 +1,51 @@
+{
+  "created": "2026-11-25T23:58:15",
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v880-x86_64-with-glibc2.39",
+  "inputs": {
+    "regional_series": "data/regional/CHIRPS_pentad_area_mean_1981_2025_RAW_CACHE.csv",
+    "boundary": "data/gis/Cholistan_Boundary/Cholistan_Boundary.shp",
+    "spatial_cache": "./data/spatial_cache"
+  },
+  "datasets": {
+    "primary": "UCSB-CHG/CHIRPS/PENTAD",
+    "version_sensitivity": "UCSB-CHC/CHIRPS/V3/PENTAD",
+    "products": {
+      "PERSIANN-CDR": "NOAA/PERSIANN-CDR",
+      "ERA5-Land": "ECMWF/ERA5_LAND/MONTHLY_AGGR",
+      "IMERG-V07": "NASA/GPM_L3/IMERG_MONTHLY_V07"
+    }
+  },
+  "settings": {
+    "period": [
+      1981,
+      2025
+    ],
+    "normal": [
+      1991,
+      2020
+    ],
+    "spi_calibration": "full record",
+    "wet_pentad_mm": 5.0,
+    "analysis_min_fraction": 0.5,
+    "n_boot": 2000,
+    "n_perm": 9999,
+    "lisa_permutations": 9999,
+    "seed": 2026
+  },
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "pillow": "12.3.0",
+    "earthengine-api": "not installed",
+    "geopandas": "not installed",
+    "rasterio": "not installed"
+  },
+  "outputs": {
+    "figures": 12,
+    "tables": 35
+  }
+}

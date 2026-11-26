@@ -1,0 +1,8 @@
+family,series,units,first_year,last_year,n,sen_slope_per_year,sen_ci95_low,sen_ci95_high,kendall_tau,z_hr,p_hr,p_mk_unadjusted,p_tfpw,lag1_acf_detrended,lag1_significant,variance_factor,n_effective,q_bh_within_family,significant_q05,test,statistic,change_year,p_asymptotic,p_permutation
+P20 attribution,P20 dry pentads: all_pentads,pentads/yr,1981.0,2025.0,45.0,0.38402,0.21951,0.55216,0.40808,3.94845,8e-05,8e-05,5e-05,0.07036,False,1.0,45.0,0.00012,True,,,,,
+P20 attribution,P20 dry pentads: near_rainless,pentads/yr,1981.0,2025.0,45.0,0.33333,0.23808,0.42762,0.5899,5.73187,0.0,0.0,0.0,-0.07661,False,1.0,45.0,0.0,True,,,,,
+P20 attribution,P20 dry pentads: rain_bearing,pentads/yr,1981.0,2025.0,45.0,0.0,-0.11654,0.114,0.02323,0.14846,0.88198,0.82849,0.87142,0.25387,True,2.12946,21.13216,0.88198,False,,,,,
+,near_rainless homogeneity,,,,,,,,,,,,,,,,,,,Pettitt (rank-based),477.0,2000.0,0.0,0.0001
+,near_rainless homogeneity,,,,,,,,,,,,,,,,,,,Buishand range Q,17.43553,2000.0,,0.0001
+,near_rainless homogeneity,,,,,,,,,,,,,,,,,,,Buishand range R,16.78096,2000.0,,0.0001
+,near_rainless homogeneity,,,,,,,,,,,,,,,,,,,SNHT (Alexandersson),26.75181,2000.0,,0.0001

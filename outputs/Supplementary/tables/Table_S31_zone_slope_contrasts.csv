@@ -1,0 +1,4 @@
+contrast,series,slope_difference_per_year,ci95_low,ci95_high,excludes_zero
+Z1 − Z2,Annual rainfall (mm),-0.1638,-0.8444,0.5113,False
+Z1 − Z2,JJAS rainfall (mm),-0.3313,-0.9592,0.3198,False
+Z1 − Z2,JJAS longest dry run <2 mm (pentads),0.0101,-0.0283,0.0471,False

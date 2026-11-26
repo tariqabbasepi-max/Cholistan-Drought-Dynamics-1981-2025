@@ -1,0 +1,5 @@
+scale,valid_months,drought_months,drought_month_frequency_pct,event_envelopes,strict_runs,longest_strict_run_months,minimum_spi,minimum_month
+SPI-1,540,44,8.148,32,34,4,-2.221,2002-07
+SPI-3,538,54,10.037,25,29,4,-2.409,2002-08
+SPI-6,535,62,11.589,16,19,10,-2.286,2002-08
+SPI-12,529,60,11.342,6,7,12,-2.365,2002-08

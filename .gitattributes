@@ -1,0 +1,5 @@
+# The largest file (data/spatial_cache/chirps_v2_cube_1981_2025.npz, 32 MB) is below GitHub's 100 MB limit,
+# so Git LFS is not required. To use LFS anyway, run `git lfs install` and uncomment the next line.
+# data/spatial_cache/*.npz filter=lfs diff=lfs merge=lfs -text
+*.tiff binary
+*.npz binary

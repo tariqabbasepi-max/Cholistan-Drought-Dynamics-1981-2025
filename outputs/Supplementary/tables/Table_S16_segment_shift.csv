@@ -1,0 +1,4 @@
+series,mean_1981_2009,mean_2010_2025,hl_shift,p_permutation
+Annual rainfall,154.6424,255.1654,91.6056,0.0001
+JJAS rainfall,122.666,214.0602,78.1239,0.0001
+JAS rainfall,108.0469,191.7234,74.0468,0.0001

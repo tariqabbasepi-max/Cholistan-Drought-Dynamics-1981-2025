@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article once published, and this repository."
+title: "Cholistan Drought Dynamics 1981–2025: analysis code and derived data"
+type: software
+authors:
+  - family-names: Abbas
+    given-names: Tariq
+    affiliation: "Cholistan University of Veterinary and Animal Sciences, Bahawalpur, Pakistan"
+    email: tariqabbas@cuvas.edu.pk
+  - family-names: Ghaffar
+    given-names: Abdul
+  - family-names: Rizwan
+    given-names: Muhammad Arif
+  - family-names: Adnan
+    given-names: Muhammad
+  - family-names: Arif
+    given-names: Tanveer
+  - family-names: Abdullah
+    given-names: Muhammad
+  - family-names: Shirwani
+    given-names: Sohail Khan
+repository-code: "https://github.com/tariqabbasepi-max/Cholistan-Drought-Dynamics-1981-2025"
+keywords:
+  - drought
+  - CHIRPS
+  - Standardized Precipitation Index
+  - Cholistan
+  - Google Earth Engine
+# license: to be added by the authors (see LICENSE_PENDING.md)
+# doi: add the Zenodo DOI after archiving a release

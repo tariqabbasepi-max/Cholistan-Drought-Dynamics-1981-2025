@@ -1,0 +1,10 @@
+metric,v2_mean_slope,v3_mean_slope,pct_cells_same_sign,spatial_r,v2_pct_area_sig_q10,v3_pct_area_sig_q10
+Annual rainfall (mm),29.222,21.618,99.781,0.576,100.0,44.047
+JJAS rainfall (mm),24.979,18.107,100.0,0.704,100.0,0.0
+Wet pentads ≥5 mm (count),1.323,0.835,98.142,-0.122,99.321,84.641
+Top-10 pentad share (%),2.185,-1.213,0.219,0.53,78.002,82.544
+JJAS longest dry run <2 mm (pentads),-0.472,-0.192,48.962,0.162,88.387,8.47
+"P20 dry pentads, all pentads (count)",3.415,0.116,28.525,0.328,96.295,25.571
+"P20 dry pentads, normal ≥1 mm (count)",0.686,0.041,36.721,0.292,9.615,9.29
+SPI-3 annual minimum (index),0.03,0.161,89.29,0.198,0.0,73.138
+SPI-12 annual minimum (index),0.371,0.298,99.781,0.741,100.0,94.249

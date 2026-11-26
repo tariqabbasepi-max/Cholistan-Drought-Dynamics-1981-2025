@@ -1,0 +1,33 @@
+series,units,first_year,last_year,n,sen_slope_per_year,sen_ci95_low,sen_ci95_high,kendall_tau,z_hr,p_hr,p_mk_unadjusted,p_tfpw,lag1_acf_detrended,lag1_significant,variance_factor,n_effective,definition,season,metric,q_bh_within_definition
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.38402,0.21951,0.55216,0.40808,3.94845,8e-05,8e-05,5e-05,0.07036,False,1.0,45.0,P20 (all pentads),Annual,count,0.00031
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.09688,0.04656,0.14687,0.31818,3.10607,0.0019,0.0019,0.0019,-0.10685,False,1.0,45.0,P20 (all pentads),Annual,longest run,0.00379
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.06667,0.06464,0.03232,0.30588,0.7597,0.7597,0.75376,0.05299,False,1.0,45.0,P20 (all pentads),JJAS,count,0.7597
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.03572,0.03705,0.07576,0.73663,0.46135,0.46135,0.33108,-0.04775,False,1.0,45.0,P20 (all pentads),JJAS,longest run,0.61513
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.375,0.18299,0.57046,0.40101,3.87832,0.00011,0.00011,8e-05,0.11404,False,1.0,45.0,P25 (all pentads),Annual,count,0.00021
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.10763,0.06318,0.14797,0.32424,4.15184,3e-05,0.00158,0.00267,-0.08936,False,0.57912,77.70383,P25 (all pentads),Annual,longest run,0.00013
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.07947,0.07794,-0.06061,-0.58082,0.56136,0.56136,0.56414,0.07995,False,1.0,45.0,P25 (all pentads),JJAS,count,0.6742
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.02818,0.0303,-0.03636,-0.42039,0.6742,0.72513,0.80765,-0.025,False,0.69956,64.32626,P25 (all pentads),JJAS,longest run,0.6742
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.18182,0.06623,0.2987,0.33838,2.70389,0.00685,0.00102,0.00155,-0.06978,False,1.47687,30.46979,P10 (all pentads),Annual,count,0.01371
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.05556,0.01092,0.09635,0.28687,2.82501,0.00473,0.00473,0.01398,0.02299,False,1.0,45.0,P10 (all pentads),Annual,longest run,0.01371
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.01253,0.02942,0.16162,1.66282,0.09635,0.09635,0.35957,0.10229,False,1.0,45.0,P10 (all pentads),JJAS,count,0.09635
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,0.0,0.0,0.17172,1.77264,0.07629,0.07629,0.36478,0.17322,False,1.0,45.0,P10 (all pentads),JJAS,longest run,0.09635
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.03846,0.00098,0.06625,0.22121,2.1908,0.02847,0.02847,0.01479,-0.28129,False,1.0,45.0,P05 (all pentads),Annual,count,0.11387
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.0,0.0,0.0,0.13636,1.37118,0.17032,0.17032,0.07558,-0.13879,False,1.0,45.0,P05 (all pentads),Annual,longest run,0.17032
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,0.0,0.0,0.13232,1.47426,0.14041,0.14041,0.05431,-0.06883,False,1.0,45.0,P05 (all pentads),JJAS,count,0.17032
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,0.0,0.0,0.13131,1.4729,0.14078,0.14078,0.7201,0.03135,False,1.0,45.0,P05 (all pentads),JJAS,longest run,0.17032
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.11654,0.114,0.02323,0.14846,0.88198,0.82849,0.87142,0.25387,True,2.12946,21.13216,P20 (normal ≥1 mm),Annual,count,0.92774
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.03226,0.03454,-0.01212,-0.09069,0.92774,0.91226,0.94348,-0.0882,False,1.47617,30.48424,P20 (normal ≥1 mm),Annual,longest run,0.92774
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.06667,0.06464,0.03232,0.30588,0.7597,0.7597,0.75376,0.05299,False,1.0,45.0,P20 (normal ≥1 mm),JJAS,count,0.92774
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.03572,0.03705,0.07576,0.73663,0.46135,0.46135,0.33108,-0.04775,False,1.0,45.0,P20 (normal ≥1 mm),JJAS,longest run,0.92774
+Annual dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.05882,0.058,0.07475,0.72243,0.47003,0.47003,0.57098,0.02494,False,1.0,45.0,P20 (normal ≥2 mm),Annual,count,0.47003
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.029,0.02986,0.11313,1.10945,0.26724,0.26724,0.36736,0.00044,False,1.0,45.0,P20 (normal ≥2 mm),Annual,longest run,0.47003
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.05882,0.058,0.07475,0.72243,0.47003,0.47003,0.57098,0.02494,False,1.0,45.0,P20 (normal ≥2 mm),JJAS,count,0.47003
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,-0.029,0.02986,0.11313,1.10945,0.26724,0.26724,0.36736,0.00044,False,1.0,45.0,P20 (normal ≥2 mm),JJAS,longest run,0.47003
+Annual dry-pentad count,pentads/yr,1981,2025,45,-0.13485,-0.2406,-0.02521,-0.28081,-2.72751,0.00638,0.00638,0.01746,0.17935,False,1.0,45.0,Absolute <1 mm,Annual,count,0.02553
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,0.0,0.0,0.0,-0.2202,-2.28257,0.02246,0.02246,0.00395,-0.03225,False,1.0,45.0,Absolute <1 mm,Annual,longest run,0.04491
+JJAS dry-pentad count,pentads/yr,1981,2025,45,0.0,-0.05135,0.05,-0.05152,-0.49511,0.62052,0.62052,0.71552,0.15465,False,1.0,45.0,Absolute <1 mm,JJAS,count,0.62052
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,0.0,0.0,0.01412,-0.04545,-0.50979,0.6102,0.65895,0.95956,-0.00578,False,0.74955,60.0357,Absolute <1 mm,JJAS,longest run,0.62052
+Annual dry-pentad count,pentads/yr,1981,2025,45,-0.20256,-0.28173,-0.12188,-0.41919,-4.06776,5e-05,5e-05,5e-05,-0.17345,False,1.0,45.0,Absolute <2 mm,Annual,count,0.00019
+Annual dry-pentad longest run,pentads/yr,1981,2025,45,-0.25,-0.38236,-0.13093,-0.34848,-2.93527,0.00333,0.00072,0.00027,0.00078,False,1.32767,33.89403,Absolute <2 mm,Annual,longest run,0.00444
+JJAS dry-pentad count,pentads/yr,1981,2025,45,-0.09091,-0.15016,-0.02174,-0.2798,-2.7403,0.00614,0.00614,0.00524,-0.16443,False,1.0,45.0,Absolute <2 mm,JJAS,count,0.00614
+JJAS dry-pentad longest run,pentads/yr,1981,2025,45,-0.08333,-0.11905,-0.04411,-0.35657,-3.49774,0.00047,0.00047,0.00149,-0.07806,False,1.0,45.0,Absolute <2 mm,JJAS,longest run,0.00094

@@ -1,0 +1,4 @@
+component,pct_per_decade,ci95_low,ci95_high
+rain_from_wet_pentads_mm,25.306,13.475,36.978
+n_wet_pentads_ge5,18.405,12.247,24.35
+wet_pentad_intensity_mm,7.834,0.695,14.234

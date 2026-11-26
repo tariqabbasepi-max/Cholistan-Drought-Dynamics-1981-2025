@@ -1,0 +1,12 @@
+metric,CHIRPS v2 | Sen per decade,CHIRPS v2 | 95% CI,CHIRPS v2 | p (Hamed–Rao),CHIRPS v2 | mean 2010–2025 minus 1981–2009,CHIRPS v3 | Sen per decade,CHIRPS v3 | 95% CI,CHIRPS v3 | p (Hamed–Rao),CHIRPS v3 | mean 2010–2025 minus 1981–2009,Robust across versions
+Annual rainfall (mm),30.5137,17.5 to 42.2,0.0001,100.523,21.9183,0.566 to 40.9,0.0617,78.6741,no
+JJAS rainfall (mm),24.8015,12.7 to 35.5,0.0003,91.3942,16.5497,-3.66 to 34.7,0.0944,79.6409,no
+Wet pentads ≥5 mm (count),1.2973,0.848 to 1.69,0.0,3.5776,0.9091,0.123 to 1.61,0.0731,2.306,no
+Wet-pentad intensity (mm),1.2886,0.211 to 2.17,0.0053,5.198,0.4875,-0.829 to 1.74,0.6457,3.2404,no
+Top-10 pentad share (%),2.0292,0.537 to 3.3,0.0022,8.5134,-0.9995,-2.2 to 0.165,0.1345,-1.4686,no
+Gini of pentad totals,0.0213,0.00954 to 0.0323,0.0,0.0814,-0.0048,-0.0108 to 0.00123,0.1396,-0.0087,no
+"P20 dry pentads, all pentads (count)",3.8402,2.2 to 5.52,0.0001,6.6099,0.6066,-0.302 to 1.52,0.1395,1.3147,no
+"P20 dry pentads, near-rainless pentads (count)",3.3333,2.38 to 4.28,0.0,8.1142,0.5263,0.242 to 0.795,0.0,0.9677,yes
+"P20 dry pentads, normal ≥1 mm (count)",0.0,-1.17 to 1.14,0.882,-1.5043,0.0,-0.556 to 0.588,0.9012,0.347,no trend in either
+JJAS longest dry run <2 mm (pentads),-0.8333,-1.19 to -0.441,0.0005,-2.0797,-0.2667,-0.639 to 0.104,0.0645,-1.3836,no
+SPI-12 annual minimum,0.3899,0.162 to 0.596,0.0033,1.1871,0.3126,0.0141 to 0.591,0.0042,0.9742,yes
